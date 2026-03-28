@@ -8,7 +8,7 @@ def main(page: ft.Page):
     page.padding = 30
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
 
-    # Grid Dimensions (Kept slightly smaller for smooth UI performance)
+    # Grid Dimensions Kept slightly smaller for smooth UI performance
     ROWS = 20
     COLS = 30
     CELL_SIZE = 25
